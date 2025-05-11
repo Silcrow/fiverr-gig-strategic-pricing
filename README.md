@@ -1,6 +1,8 @@
 # fiverr-gig-strategic-pricing
 What pricing tiers dominate each Fiverr gig subcategory within data analytics, and what does that imply about competition and revenue potential?
 
+https://www.kaggle.com/code/sangsan/fiverr-gigs-strategic-pricing
+
 # Fiverr Marketplace: Strategic Pricing Patterns by Gig Category
 ## Problem
 Beginner freelancers on Fiverr often struggle with two key uncertainties: what kind of gigs to offer and how much to charge. Without a clear understanding of market expectations, it's easy to underprice services or enter an overcrowded niche. This analysis focuses on the data analytics service category and aims to provide practical guidance for new sellers.
